@@ -26,7 +26,7 @@ export const LocalNotification = (title, subText, message, bigText) => {
     soundName: 'default',
     color: '#05A5D1',
     smallIcon: 'ic_launcher_transparent',
-    largeIcon: 'ic_launcher',
+    largeIcon: 'ic_launcher_round',
   });
 };
 
